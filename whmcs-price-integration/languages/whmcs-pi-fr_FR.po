@@ -1,0 +1,598 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-10-29 10:07-0400\n"
+"PO-Revision-Date: 2021-10-29 13:29-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: lib/domains_shortcode.php\n"
+"X-Poedit-SearchPath-2: lib/main.class.php\n"
+"X-Poedit-SearchPath-3: lib/products_shortcode.php\n"
+"X-Poedit-SearchPath-4: lib/whmcsAPI_call.class.php\n"
+"X-Poedit-SearchPath-5: lib/whmcs-domains.class.php\n"
+"X-Poedit-SearchPath-6: lib/whmcs-products.class.php\n"
+"X-Poedit-SearchPath-7: admin/whmcs-pi_admin-display.php\n"
+"X-Poedit-SearchPath-8: whmcs-price-integration.php\n"
+
+msgid "1 year"
+msgstr "1 an"
+
+msgid "10 years"
+msgstr "10 ans"
+
+msgid "2 years"
+msgstr "2 ans"
+
+msgid "3 years"
+msgstr "3 ans"
+
+msgid "5 years"
+msgstr "5 ans"
+
+msgid "A .%s domain"
+msgstr "Un domaine .%s"
+
+msgid "A length WHMCS does not sell for this extension renders nothing, since the surrounding sentence would then describe an offer that does not exist."
+msgstr "Une durée que WHMCS ne vend pas pour cette extension n'affiche rien : la phrase qui l'entoure décrirait sinon une offre qui n'existe pas."
+
+msgid "API Configuration updated"
+msgstr "Configuration de l'API mise à jour"
+
+msgid "API configuration"
+msgstr "Configuration de l'API"
+
+msgid "API configuration updated."
+msgstr "Configuration de l'API mise à jour."
+
+msgid "API credentials"
+msgstr "Identifiants d'API"
+
+msgid "API identifier"
+msgstr "Identifiant d'API"
+
+msgid "API identifier or secret is missing."
+msgstr "L'identifiant ou le secret d'API est manquant."
+
+msgid "API secret"
+msgstr "Secret d'API"
+
+msgid "Access key (optional)"
+msgstr "Clé d'accès (facultative)"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "Arts and Entertainment"
+msgstr "Arts and Divertissements"
+
+msgid "Business"
+msgstr "Entreprise"
+
+msgid "Cache refreshed — %d extensions stored."
+msgstr "Cache rafraîchi — %d extensions enregistrées."
+
+msgid "Clear credentials"
+msgstr "Effacer les identifiants"
+
+msgid "Clear the stored API credentials?"
+msgstr "Effacer les identifiants d'API enregistrés ?"
+
+msgid "Client area URL"
+msgstr "URL de l'espace client"
+
+msgid "Client area root. \"/includes/api.php\" is appended automatically."
+msgstr "Racine de l'espace client. « /includes/api.php » est ajouté automatiquement."
+
+msgid "Connection failed for an unknown reason."
+msgstr "Échec de la connexion, cause inconnue."
+
+msgid "Connection failed: %s"
+msgstr "Échec de la connexion : %s"
+
+msgid "Connection successful — WHMCS returned %d extensions."
+msgstr "Connexion réussie — WHMCS a retourné %d extensions."
+
+msgid "Could not reach WHMCS: %s"
+msgstr "WHMCS injoignable : %s"
+
+msgid "Create dedicated API credentials in WHMCS under Configuration > System Settings > API Credentials. Restrict them by IP address and grant only the pricing related roles."
+msgstr "Créez des identifiants d'API dédiés dans WHMCS sous Configuration > System Settings > API Credentials. Restreignez-les par adresse IP et n'accordez que les rôles liés aux tarifs."
+
+msgid "Currency prefix"
+msgstr "Préfixe monétaire"
+
+msgid "Currency suffix"
+msgstr "Suffixe monétaire"
+
+msgid "Domain extension"
+msgstr "Extension de domaine"
+
+msgid "Education"
+msgstr "Éducation"
+
+msgid "Enter your WHMCS API information below"
+msgstr "Entrez vos informations d'API WHMCS ci-dessous"
+
+msgid "Error while making the API call : "
+msgstr "Erreur lors de l'appel de l'API : "
+
+msgid "Extension"
+msgstr "Extension"
+
+msgid "First year"
+msgstr "Première année"
+
+msgid "Food and Drink"
+msgstr "Nourriture et Boissons"
+
+msgid "Geographic"
+msgstr "Géographique"
+
+msgid "Invalid period (<b>"
+msgstr "Période invalide (<b>"
+
+msgid "Invalid product ID provided (<b>"
+msgstr "ID de produit fourni non valide (<b>"
+
+msgid "Label"
+msgstr "Libellé"
+
+msgid "Leave empty to use the page slug. On extension pages that keeps the price and the page in step automatically."
+msgstr "Laissez vide pour utiliser l'identifiant de la page. Sur une fiche d'extension, le prix et la page restent ainsi accordés sans saisie."
+
+msgid "Leisure and Recreation"
+msgstr "Loisirs"
+
+msgid "Lengths WHMCS does not sell for this extension fall back to one year, and the wording follows what is shown."
+msgstr "Une durée que WHMCS ne vend pas pour cette extension retombe sur un an, et le libellé suit ce qui est réellement affiché."
+
+msgid "Maintenance"
+msgstr "Maintenance"
+
+msgid "Missing"
+msgstr "Manquants"
+
+msgid "Module Configuration"
+msgstr "Configuration du module"
+
+msgid "Money and Finance"
+msgstr "Argent et Finances"
+
+msgid "No key"
+msgstr "Aucune clé"
+
+msgid "No price available yet. Check the plugin settings, or refresh the cache."
+msgstr "Aucun prix disponible pour l'instant. Vérifiez la configuration de l'extension ou rafraîchissez le cache."
+
+msgid "No price is available for these settings."
+msgstr "Aucun prix n'est disponible pour ces réglages."
+
+msgid "Novelty"
+msgstr "Nouveautés"
+
+msgid "Off by default. With no code named below, WHMCS decides which of the product's promotions applies and the order is arbitrary, so a private code can end up on a public page."
+msgstr "Désactivé par défaut. Sans code nommé ci-dessous, WHMCS choisit laquelle des promotions du produit s'applique et l'ordre est arbitraire : un code privé peut donc se retrouver sur une page publique."
+
+msgid "Optional heading shown above the price."
+msgstr "Titre facultatif affiché au-dessus du prix."
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Popular"
+msgstr "Populaire"
+
+msgid "Prefix of the WHMCS promotion code to price against, such as whfirstterm. Case sensitive, and matched from the start, so HW- covers every code beginning with it."
+msgstr "Préfixe du code de promotion WHMCS à utiliser, par exemple whfirstterm. Sensible à la casse et comparé depuis le début, donc HW- couvre tout code commençant ainsi."
+
+msgid "Price settings"
+msgstr "Réglages du prix"
+
+msgid "Price shown"
+msgstr "Prix affiché"
+
+msgid "Price source"
+msgstr "Source du prix"
+
+msgid "Pricing is temporarily unavailable."
+msgstr "Tarifs temporairement indisponibles."
+
+msgid "Promotion code"
+msgstr "Code de promotion"
+
+msgid "Real Estate"
+msgstr "Immobilier"
+
+msgid "Recommended: on new gTLDs the first year is often promotional."
+msgstr "Recommandé : sur les nouveaux gTLD, la première année est souvent promotionnelle."
+
+msgid "Refresh cache now"
+msgstr "Rafraîchir le cache maintenant"
+
+msgid "Refresh failed. The previous cache was kept."
+msgstr "Échec du rafraîchissement. Le cache précédent a été conservé."
+
+msgid "Registration length"
+msgstr "Durée d'enregistrement"
+
+msgid "Remove"
+msgstr "Retirer"
+
+msgid "Renewal"
+msgstr "Renouvellement"
+
+msgid "Renewal:"
+msgstr "Renouvellement :"
+
+msgid "Renewal: %s"
+msgstr "Renouvellement : %s"
+
+msgid "Renews at the same price"
+msgstr "Renouvellement au même prix"
+
+msgid "Replaces the automatic currency formatting. Use it to match figures already written on the page."
+msgstr "Remplace le formatage monétaire automatique. À utiliser pour s'accorder aux montants déjà écrits dans la page."
+
+msgid "Save %1$d%% over %2$d years"
+msgstr "Économisez %1$d %% sur %2$d ans"
+
+msgid "Save %d%% the first year"
+msgstr "Économisez %d %% la première année"
+
+msgid "Save configuration"
+msgstr "Enregistrer la configuration"
+
+msgid "Search domain TLD"
+msgstr "Chercher avec ce domaine"
+
+msgid "Services"
+msgstr "Services"
+
+msgid "Set"
+msgstr "Configurés"
+
+msgid "Shopping"
+msgstr "Magasinage"
+
+msgid "Show discount badge"
+msgstr "Afficher le badge de rabais"
+
+msgid "Show renewal price"
+msgstr "Afficher le prix de renouvellement"
+
+msgid "Shows the live registration and renewal price for a domain extension."
+msgstr "Affiche le prix d'enregistrement et de renouvellement à jour d'une extension de domaine."
+
+msgid "Sports"
+msgstr "Sports"
+
+msgid "Status"
+msgstr "État"
+
+msgid "Stored credentials are never sent back to the browser. Leave a field blank to keep its current value."
+msgstr "Les identifiants enregistrés ne sont jamais renvoyés au navigateur. Laissez un champ vide pour conserver sa valeur actuelle."
+
+msgid "Stored credentials cleared."
+msgstr "Identifiants effacés."
+
+msgid "TLD cannot be empty."
+msgstr "Le TLD ne peut pas être vide."
+
+msgid "Technology"
+msgstr "Technologies"
+
+msgid "Test API connection"
+msgstr "Tester la connexion à l'API"
+
+msgid "Test the API connection"
+msgstr "Tester la connexion API"
+
+msgid "The WHMCS API URL is empty or invalid."
+msgstr "L'URL de l'API WHMCS est vide ou invalide."
+
+msgid "The WHMCS API URL must use https://."
+msgstr "L'URL de l'API WHMCS doit utiliser https://."
+
+msgid "The WHMCS URL must start with https:// — the API credentials travel in the request body."
+msgstr "L'URL de WHMCS doit commencer par https:// — les identifiants d'API circulent dans le corps de la requête."
+
+msgid "Uses the page slug"
+msgstr "Utilise l'identifiant de la page"
+
+msgid "WHMCS API error: %s"
+msgstr "Erreur de l'API WHMCS : %s"
+
+msgid "WHMCS price"
+msgstr "Prix WHMCS"
+
+msgid "WHMCS Price Integration"
+msgstr "Intégration des prix WHMCS"
+
+msgid "WHMCS Price Intergration"
+msgstr "Intégration des prix WHMCS"
+
+msgid "WHMCS URL"
+msgstr "URL de WHMCS"
+
+msgid "WHMCS answered with HTTP %d."
+msgstr "WHMCS a répondu par un code HTTP %d."
+
+msgid "WHMCS did not return valid JSON. Check the API URL."
+msgstr "WHMCS n'a pas renvoyé de JSON valide. Vérifiez l'URL de l'API."
+
+msgid "WHMCS domain price"
+msgstr "Prix de domaine WHMCS"
+
+msgid "WHMCS refused the request."
+msgstr "WHMCS a refusé la requête."
+
+msgid "WHMCS refused this server's IP address. Add it to the API credential's allowed IPs."
+msgstr "WHMCS a refusé l'adresse IP de ce serveur. Ajoutez-la aux adresses autorisées de l'identifiant d'API."
+
+msgid "Was"
+msgstr "Était"
+
+msgid "You do not have permission to access this page."
+msgstr "Vous n'avez pas l'autorisation d'accéder à cette page."
+
+msgid "all"
+msgstr "Tous"
+
+msgid "domain"
+msgstr "domaine"
+
+msgid "en-CA"
+msgstr "fr-CA"
+
+msgid "extensions cached"
+msgstr "extensions en cache"
+
+msgid "for %d years"
+msgstr "pour %d ans"
+
+msgid "for the first year"
+msgstr "la première année"
+
+msgid "hot"
+msgstr "Prisé"
+
+msgid "never"
+msgstr "jamais"
+
+msgid "not scheduled"
+msgstr "non planifié"
+
+msgid "page slug"
+msgstr "identifiant de la page"
+
+msgid "price"
+msgstr "prix"
+
+msgid "since last refresh"
+msgstr "depuis le dernier rafraîchissement"
+
+msgid "unchanged"
+msgstr "inchangé"
+
+msgid "until next refresh"
+msgstr "avant le prochain rafraîchissement"
+
+msgid "wp-config.php has no usable salt — credentials cannot be stored safely."
+msgstr "wp-config.php ne contient aucun sel utilisable — les identifiants ne peuvent pas être enregistrés en sécurité."
+
+#: lib/product-block.php
+msgid "%1$s failed: %2$s"
+msgstr "Échec de %1$s : %2$s"
+
+#: lib/product-block.php
+msgid "%s failed for an unknown reason."
+msgstr "Échec de %s, pour une raison inconnue."
+
+#: lib/product-block.php
+msgid "/month"
+msgstr "/mois"
+
+#: lib/product-block.php
+msgid "/quarter"
+msgstr "/trimestre"
+
+#: lib/product-block.php
+msgid "/six months"
+msgstr "/six mois"
+
+#: lib/product-block.php
+msgid "/three years"
+msgstr "/trois ans"
+
+#: lib/product-block.php
+msgid "/two years"
+msgstr "/deux ans"
+
+#: lib/product-block.php
+msgid "/year"
+msgstr "/an"
+
+#: lib/product-block.php
+msgid "A cycle the product is not sold on renders nothing."
+msgstr "Un cycle sur lequel le produit n'est pas vendu n'affiche rien."
+
+#: lib/product-block.php
+msgid "Adds the cheapest selectable value of each option. On a product sold with a mandatory account count or disk allowance, the bare product price is not what a customer pays."
+msgstr "Ajoute la valeur la moins chère de chaque option. Sur un produit vendu avec un nombre de comptes ou un espace disque obligatoires, le prix nu du produit n'est pas ce que le client paie."
+
+#: lib/product-block.php
+msgid "Annually"
+msgstr "Annuel"
+
+#: lib/product-block.php
+msgid "Billing cycle"
+msgstr "Cycle de facturation"
+
+#: lib/product-block.php
+msgid "Comma separated option ids, for instance 911,913. Empty counts every option on the product."
+msgstr "Identifiants d'options séparés par des virgules, par exemple 911,913. Vide compte toutes les options du produit."
+
+#: lib/product-block.php
+msgid "Configurable options"
+msgstr "Options configurables"
+
+#: lib/product-block.php
+msgid "Count only these options"
+msgstr "Ne compter que ces options"
+
+#: lib/product-block.php
+msgid "Enter a WHMCS product id to see the price."
+msgstr "Saisissez un identifiant de produit WHMCS pour voir le prix."
+
+#: lib/product-block.php
+msgid "Every six months"
+msgstr "Tous les six mois"
+
+#: lib/product-block.php
+msgid "Every three years"
+msgstr "Tous les trois ans"
+
+#: lib/product-block.php
+msgid "Every two years"
+msgstr "Tous les deux ans"
+
+#: lib/product-block.php
+msgid "Falls back to the regular price when no promotion is configured."
+msgstr "Revient au prix normal si aucune promotion n'est configurée."
+
+#: lib/product-block.php
+msgid "GetProducts failed for pid %1$d. WHMCS reported: %2$s"
+msgstr "Échec de GetProducts pour le pid %1$d. WHMCS a répondu : %2$s"
+
+#: lib/product-block.php
+msgid "GetProducts: successful, %d products returned."
+msgstr "GetProducts : réussi, %d produits renvoyés."
+
+#: lib/product-block.php
+msgid "GetPromotions: successful."
+msgstr "GetPromotions : réussi."
+
+#: lib/product-block.php
+msgid "GetTLDPricing: successful, %d extensions returned."
+msgstr "GetTLDPricing : réussi, %d extensions renvoyées."
+
+#: lib/product-block.php
+msgid "Include the options floor"
+msgstr "Inclure le plancher des options"
+
+#: lib/product-block.php
+msgid "Monthly"
+msgstr "Mensuel"
+
+#: lib/product-block.php
+msgid "No configurable option was returned for this product."
+msgstr "Aucune option configurable n'a été renvoyée pour ce produit."
+
+#: lib/product-block.php
+msgid "No price available. Check the product id and the billing cycle, or the plugin settings."
+msgstr "Aucun prix disponible. Vérifiez l'identifiant du produit et le cycle de facturation, ou les réglages de l'extension."
+
+#: lib/product-block.php
+msgid "Off by default: the heading above the block usually says the same thing."
+msgstr "Désactivé par défaut : le titre au-dessus du bloc dit généralement la même chose."
+
+#: lib/product-block.php
+msgid "On an annual cycle, divides the price by twelve. This is how a yearly commitment is usually advertised."
+msgstr "Sur un cycle annuel, divise le prix par douze. C'est ainsi qu'un engagement d'un an s'annonce habituellement."
+
+#: lib/product-block.php
+msgid "Only for an option WHMCS reports no minimum for, as id:minimum pairs such as 913:10. A reported minimum always wins."
+msgstr "Uniquement pour une option dont WHMCS ne rapporte aucun minimum, sous forme de paires id:minimum comme 913:10. Un minimum rapporté l'emporte toujours."
+
+#: lib/product-block.php
+msgid "Prefix with \"from\""
+msgstr "Préfixer par « à partir de »"
+
+#: lib/product-block.php
+msgid "Product"
+msgstr "Produit"
+
+#: lib/product-block.php
+msgid "Product id"
+msgstr "Identifiant du produit"
+
+#: lib/product-block.php
+msgid "Quantity minimums"
+msgstr "Minimums de quantité"
+
+#: lib/product-block.php
+msgid "Quarterly"
+msgstr "Trimestriel"
+
+#: lib/product-block.php
+msgid "Show the billing period"
+msgstr "Afficher la période de facturation"
+
+#: lib/product-block.php
+msgid "Show the label above the price"
+msgstr "Afficher l'intitulé au-dessus du prix"
+
+#: lib/product-block.php
+msgid "Show the monthly equivalent"
+msgstr "Afficher l'équivalent mensuel"
+
+#: lib/product-block.php
+msgid "Shows the live price of a WHMCS product, options included."
+msgstr "Affiche le prix en direct d'un produit WHMCS, options comprises."
+
+#: lib/product-block.php
+msgid "The WHMCS product id, listed under Products/Services in the WHMCS admin."
+msgstr "L'identifiant du produit WHMCS, listé sous Products/Services dans l'administration WHMCS."
+
+#: lib/product-block.php
+msgid "Use the promotional price"
+msgstr "Utiliser le prix promotionnel"
+
+#: lib/product-block.php
+msgid "WHMCS answered but returned no product for this pid. Check the product id."
+msgstr "WHMCS a répondu, mais sans produit pour ce pid. Vérifiez l'identifiant du produit."
+
+#: lib/product-block.php
+msgid "WHMCS product price"
+msgstr "Prix de produit WHMCS"
+
+#: lib/product-block.php
+msgid "WHMCS refused the action %1$s. Add it to the API role used by these credentials, under Setup > Staff Management > API Roles. Reported: %2$s"
+msgstr "WHMCS a refusé l'action %1$s. Ajoutez-la au rôle API de ces identifiants, sous Setup > Staff Management > API Roles. Réponse : %2$s"
+
+#: lib/product-block.php
+msgid "Wording"
+msgstr "Libellés"
+
+#: lib/product-block.php
+msgid "Worth turning on when the options floor is included: what is quoted is the cheapest configuration, not the only one."
+msgstr "À activer quand le plancher des options est inclus : le prix annoncé est celui de la configuration la moins chère, pas la seule."
+
+#: lib/product-block.php
+msgid "all options"
+msgstr "toutes les options"
+
+#: lib/product-block.php
+msgid "from"
+msgstr "à partir de"
+
+#: lib/product-block.php
+msgid "no detail"
+msgstr "aucun détail"
+
+#: lib/product-block.php
+msgid "no detail recorded"
+msgstr "aucun détail consigné"
+
+#: lib/product-block.php
+msgid "product"
+msgstr "produit"
